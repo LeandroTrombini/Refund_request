@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="Refund Request Portal Config">75fb3ef3093a30107f44c646b63ed488</app_config>
+        <description/>
+        <fields/>
+        <icon/>
+        <name>Preferences</name>
+        <optional_parameters/>
+        <order>0</order>
+        <parent_macroponent display_value="Settings Page">b9fb3ef3993a30108cc526e5b15110a5</parent_macroponent>
+        <parent_macroponent_composition_element_id>tab_set_1</parent_macroponent_composition_element_id>
+        <route_type>cketv4fts00003g8yxah9e3hs</route_type>
+        <screen_type display_value="Preferences">39fb3ef3993a3010b0a449bba35d72a5</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2021-10-01 21:43:04</sys_created_on>
+        <sys_id>79fb3ef32c3a30108988dee3368d97a5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Preferences</sys_name>
+        <sys_package display_value="Refund Request" source="x_snc_refund_req_1">d95fb8ff097230107f44c646b63ed4be</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Refund Request">d95fb8ff097230107f44c646b63ed4be</sys_scope>
+        <sys_update_name>sys_ux_app_route_79fb3ef32c3a30108988dee3368d97a5</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2021-10-01 21:43:04</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=79fb3ef32c3a30108988dee3368d97a5"/>
+</record_update>

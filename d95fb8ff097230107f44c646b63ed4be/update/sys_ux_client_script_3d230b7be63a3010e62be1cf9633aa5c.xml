@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="INSERT_OR_UPDATE">
+        <includes/>
+        <macroponent display_value="Record Page(request)">f9230b7bf83a30108c7a97992c43ab59</macroponent>
+        <name>Home redirection</name>
+        <required_translations>[ ]</required_translations>
+        <script><![CDATA[/**
+ * @param {params} params
+ * @param {api} params.api
+ * @param {any} params.event
+ * @param {any} params.imports
+ */
+function handler({api, event, helpers, imports}) {
+     const route = "landing";
+    api.emit('NAV_ITEM_SELECTED', {
+        route
+    });
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2021-10-01 22:14:29</sys_created_on>
+        <sys_id>3d230b7be63a3010e62be1cf9633aa5c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Home redirection</sys_name>
+        <sys_package display_value="Refund Request" source="x_snc_refund_req_1">d95fb8ff097230107f44c646b63ed4be</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Refund Request">d95fb8ff097230107f44c646b63ed4be</sys_scope>
+        <sys_update_name>sys_ux_client_script_3d230b7be63a3010e62be1cf9633aa5c</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2021-10-01 22:14:29</sys_updated_on>
+    </sys_ux_client_script>
+</record_update>

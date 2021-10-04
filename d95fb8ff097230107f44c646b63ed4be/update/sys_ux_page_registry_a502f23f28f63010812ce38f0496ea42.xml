@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry">
+    <sys_ux_page_registry action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_panel>a902f23f4ef6301033adc8aa2f46bd40</admin_panel>
+        <admin_panel_table>sys_ux_app_config</admin_panel_table>
+        <auth_routes/>
+        <page/>
+        <path>refund-request</path>
+        <root_macroponent display_value="Agent Workspace App Shell">c276387cc331101080d6d3658940ddd2</root_macroponent>
+        <sys_class_name>sys_ux_page_registry</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-10-01 20:59:36</sys_created_on>
+        <sys_id>a502f23f28f63010812ce38f0496ea42</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Refund Request</sys_name>
+        <sys_package display_value="Refund Request" source="x_snc_refund_req_1">d95fb8ff097230107f44c646b63ed4be</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Refund Request">d95fb8ff097230107f44c646b63ed4be</sys_scope>
+        <sys_update_name>sys_ux_page_registry_a502f23f28f63010812ce38f0496ea42</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-10-01 20:59:36</sys_updated_on>
+        <title>Refund Request</title>
+    </sys_ux_page_registry>
+</record_update>

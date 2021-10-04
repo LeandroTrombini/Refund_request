@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="DELETE">
+        <inactive>false</inactive>
+        <order>2</order>
+        <published_ref/>
+        <question display_value="Type">2861c17309b230107f44c646b63ed4f0</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-10-01 12:47:27</sys_created_on>
+        <sys_id>2861057309b230107f44c646b63ed412</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Travel</sys_name>
+        <sys_package display_value="Refund Request" source="x_snc_refund_req_1">d95fb8ff097230107f44c646b63ed4be</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Refund Request">d95fb8ff097230107f44c646b63ed4be</sys_scope>
+        <sys_update_name>question_choice_2861057309b230107f44c646b63ed412</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-10-01 12:47:27</sys_updated_on>
+        <text>Travel</text>
+        <value>travel</value>
+    </question_choice>
+    <fx_price action="DELETE" query="id=2861057309b230107f44c646b63ed412"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Refund Request">d95fb8ff097230107f44c646b63ed4be</application>
+        <file_path/>
+        <instance_id>e1811e2d1b72f89430e4a9f7624bcb4a</instance_id>
+        <instance_name>qrc3-aug-677-075</instance_name>
+        <name>question_choice_2861057309b230107f44c646b63ed412</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice"><question_choice action="INSERT_OR_UPDATE"><inactive>false</inactive><order>2</order><published_ref/><question display_value="Type">2861c17309b230107f44c646b63ed4f0</question><sys_class_name>question_choice</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-10-01 12:47:27</sys_created_on><sys_id>2861057309b230107f44c646b63ed412</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Travel</sys_name><sys_package display_value="Refund Request" source="x_snc_refund_req_1">d95fb8ff097230107f44c646b63ed4be</sys_package><sys_policy/><sys_scope display_value="Refund Request">d95fb8ff097230107f44c646b63ed4be</sys_scope><sys_update_name>question_choice_2861057309b230107f44c646b63ed412</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-10-01 12:47:27</sys_updated_on><text>Travel</text><value>travel</value></question_choice><fx_price action="delete_multiple" query="id=2861057309b230107f44c646b63ed412"/></record_update>]]></payload>
+        <payload_hash>-64105229</payload_hash>
+        <record_name>Travel</record_name>
+        <reverted_from/>
+        <source>915fb8ff097230107f44c646b63ed4c1</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-10-01 12:47:27</sys_created_on>
+        <sys_id>2461057309b230107f44c646b63ed414</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17c3be52e010000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-10-01 12:47:27</sys_updated_on>
+        <type>Question Choice</type>
+        <update_guid>6c61057376b23010c4ea445afdf6dd13</update_guid>
+        <update_guid_history>6c61057376b23010c4ea445afdf6dd13:-64105229</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Travel">f7e10d7309b230107f44c646b63ed4ce</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-10-01 12:49:52</sys_created_on>
+        <sys_db_object display_value="" name="question_choice">question_choice</sys_db_object>
+        <sys_id>41ad20d5100b4a3f947032f14ba6b5d9</sys_id>
+        <sys_metadata>2861057309b230107f44c646b63ed412</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Travel</sys_name>
+        <sys_package display_value="Refund Request" source="x_snc_refund_req_1">d95fb8ff097230107f44c646b63ed4be</sys_package>
+        <sys_parent display_value="Type of expense">2861c17309b230107f44c646b63ed4f0</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Refund Request">d95fb8ff097230107f44c646b63ed4be</sys_scope>
+        <sys_scope_delete display_value="">0fdd5a9a557a4f3781570f60a76bfc19</sys_scope_delete>
+        <sys_update_name>question_choice_2861057309b230107f44c646b63ed412</sys_update_name>
+        <sys_update_version display_value="question_choice_2861057309b230107f44c646b63ed412">2461057309b230107f44c646b63ed414</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-10-01 12:49:52</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

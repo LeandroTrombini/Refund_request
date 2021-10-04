@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_screen">
+    <sys_ux_applicability_m2m_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applicability display_value="Public">df788b7fc73a3010def16f677b668d05</applicability>
+        <order>0</order>
+        <screen display_value="Login Default">d7788b7fe93a3010b04c79b88e3fbd16</screen>
+        <sys_class_name>sys_ux_applicability_m2m_screen</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2021-10-01 22:37:46</sys_created_on>
+        <sys_id>db788b7f8b3a3010070a07fa483f4505</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Refund Request" source="x_snc_refund_req_1">d95fb8ff097230107f44c646b63ed4be</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Refund Request">d95fb8ff097230107f44c646b63ed4be</sys_scope>
+        <sys_update_name>sys_ux_applicability_m2m_screen_db788b7f8b3a3010070a07fa483f4505</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2021-10-01 22:37:46</sys_updated_on>
+    </sys_ux_applicability_m2m_screen>
+</record_update>

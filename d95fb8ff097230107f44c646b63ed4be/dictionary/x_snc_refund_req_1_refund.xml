@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Refund" max_length="40" name="x_snc_refund_req_1_refund" sizeclass="24" type="collection">
+        <element label="Manager Id" max_length="32" name="manager_id" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element default="PENDING" label="Status" max_length="40" name="status" type="string"/>
+        <element choice="1" label="Type" max_length="40" name="type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Food" sequence="10" value="food"/>
+                <element inactive_on_update="false" label="Travel" sequence="20" value="travel"/>
+                <element inactive_on_update="false" label="Hosting" sequence="30" value="hosting"/>
+            </choice>
+        </element>
+        <element label="User Id" max_length="32" name="user_id" reference="sys_user" type="reference"/>
+        <element label="Value" max_length="20" name="value" type="decimal"/>
+        <index name="index">
+            <element name="manager_id"/>
+        </index>
+        <index name="index2">
+            <element name="user_id"/>
+        </index>
+    </element>
+</database>

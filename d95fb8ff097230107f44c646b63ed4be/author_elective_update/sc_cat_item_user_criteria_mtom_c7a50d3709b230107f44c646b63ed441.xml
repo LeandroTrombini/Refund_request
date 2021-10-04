@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom">
+    <sc_cat_item_user_criteria_mtom action="DELETE">
+        <sc_cat_item display_value="Catalog item">d8610dff097230107f44c646b63ed4a5</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-10-01 13:06:12</sys_created_on>
+        <sys_id>c7a50d3709b230107f44c646b63ed441</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Catalog item.Any User</sys_name>
+        <sys_package display_value="Refund Request" source="x_snc_refund_req_1">d95fb8ff097230107f44c646b63ed4be</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Refund Request">d95fb8ff097230107f44c646b63ed4be</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_c7a50d3709b230107f44c646b63ed441</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-10-01 13:06:12</sys_updated_on>
+        <user_criteria display_value="Any User">fb1166d64fff0200086eeed18110c7ab</user_criteria>
+    </sc_cat_item_user_criteria_mtom>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Refund Request">d95fb8ff097230107f44c646b63ed4be</application>
+        <file_path/>
+        <instance_id>e1811e2d1b72f89430e4a9f7624bcb4a</instance_id>
+        <instance_name>qrc3-aug-677-075</instance_name>
+        <name>sc_cat_item_user_criteria_mtom_c7a50d3709b230107f44c646b63ed441</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom"><sc_cat_item_user_criteria_mtom action="INSERT_OR_UPDATE"><sc_cat_item display_value="Catalog item">d8610dff097230107f44c646b63ed4a5</sc_cat_item><sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-10-01 13:06:12</sys_created_on><sys_id>c7a50d3709b230107f44c646b63ed441</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Catalog item.Any User</sys_name><sys_package display_value="Refund Request" source="x_snc_refund_req_1">d95fb8ff097230107f44c646b63ed4be</sys_package><sys_policy/><sys_scope display_value="Refund Request">d95fb8ff097230107f44c646b63ed4be</sys_scope><sys_update_name>sc_cat_item_user_criteria_mtom_c7a50d3709b230107f44c646b63ed441</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-10-01 13:06:12</sys_updated_on><user_criteria display_value="Any User">fb1166d64fff0200086eeed18110c7ab</user_criteria></sc_cat_item_user_criteria_mtom></record_update>]]></payload>
+        <payload_hash>-767312753</payload_hash>
+        <record_name>Catalog item.Any User</record_name>
+        <reverted_from/>
+        <source>915fb8ff097230107f44c646b63ed4c1</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-10-01 13:06:12</sys_created_on>
+        <sys_id>07a50d3709b230107f44c646b63ed445</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17c3bf658200000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-10-01 13:06:12</sys_updated_on>
+        <type>Catalog Item Available for</type>
+        <update_guid>8ba50d37e4b23010723f8d2fc40df344</update_guid>
+        <update_guid_history>8ba50d37e4b23010723f8d2fc40df344:-767312753</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Catalog item.Any User">a64cc17b09b230107f44c646b63ed4d1</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-10-01 13:35:06</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_user_criteria_mtom">sc_cat_item_user_criteria_mtom</sys_db_object>
+        <sys_id>07e90b6358684b4480ae64bac21d22d9</sys_id>
+        <sys_metadata>c7a50d3709b230107f44c646b63ed441</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Catalog item.Any User</sys_name>
+        <sys_package display_value="Refund Request" source="x_snc_refund_req_1">d95fb8ff097230107f44c646b63ed4be</sys_package>
+        <sys_parent display_value="Refund Request">d8610dff097230107f44c646b63ed4a5</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Refund Request">d95fb8ff097230107f44c646b63ed4be</sys_scope>
+        <sys_scope_delete display_value="">0fdd5a9a557a4f3781570f60a76bfc19</sys_scope_delete>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_c7a50d3709b230107f44c646b63ed441</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_user_criteria_mtom_c7a50d3709b230107f44c646b63ed441">07a50d3709b230107f44c646b63ed445</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-10-01 13:35:06</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
